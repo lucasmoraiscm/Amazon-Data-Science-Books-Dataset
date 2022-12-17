@@ -1,4 +1,4 @@
-## Amazon-Data-Science-Books-Dataset
+## Amazon Data Science Books Dataset
 
 -- ### Project developed during the subject Special Topics in Development, at the Federal Institute of Piauí (IFPI).
 
