@@ -1,4 +1,4 @@
-## Dataset de livros de ciência de dados da Amazon
+## Dataset de Livros de Ciência de Dados da Amazon
 
 - ### Projeto desenvolvido durante a disciplina Tópicos Especiais em Desenvolvimento, no Instituto Federal do Piauí (IFPI).
 
