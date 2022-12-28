@@ -6,4 +6,6 @@
 
 - ### Esse projeto realizou uma análise sobre um conjunto de dados, obtidos a partir da extração no site da Amazon, de livros relacionados a ciência de dados, estatística, análise de dados, Python, aprendizado profundo e aprendizado de máquina.
 
+- ### Link para a análise: https://colab.research.google.com/drive/1VoR-oBqVb8bFkU6ALHVOtpSHbFn_SpUS?usp=sharing
+
 - ### Link para o dataset: https://www.kaggle.com/datasets/die9origephit/amazon-data-science-books
